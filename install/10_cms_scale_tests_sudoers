@@ -1,0 +1,3 @@
+Defaults: submituser !requiretty
+
+submituser ALL=(ALL)    NOPASSWD: ALL
